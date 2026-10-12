@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask
+flask-cors
+# optional, only for streamlit_app.py:
+streamlit
